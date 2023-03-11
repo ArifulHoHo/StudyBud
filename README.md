@@ -1,2 +1,2 @@
 # StudyBud
-Made a web-app from django following Dennis Ivy's tutorial,
+Made a web-app from django following Dennis Ivy's tutorial on youtube. 
